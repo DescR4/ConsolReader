@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "functions.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "wchar.h": "c",
+        "stdbool.h": "c"
+    },
+    "editor.fontLigatures": false
+}
